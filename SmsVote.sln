@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsVote.Web", "SmsVote.Web\SmsVote.Web.csproj", "{626B8271-43BD-4027-A4F8-0536E63CC916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsVote.Web.Domain", "SmsVote.Web.Domain\SmsVote.Web.Domain.csproj", "{2CDE88F3-CC7C-4D03-97B9-6BF42D82FE71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626B8271-43BD-4027-A4F8-0536E63CC916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626B8271-43BD-4027-A4F8-0536E63CC916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626B8271-43BD-4027-A4F8-0536E63CC916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626B8271-43BD-4027-A4F8-0536E63CC916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDE88F3-CC7C-4D03-97B9-6BF42D82FE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDE88F3-CC7C-4D03-97B9-6BF42D82FE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDE88F3-CC7C-4D03-97B9-6BF42D82FE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDE88F3-CC7C-4D03-97B9-6BF42D82FE71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
